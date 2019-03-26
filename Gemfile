@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "thin"
 gem "bundler", ">= 1.5.0"
 
 gem "rails", "5.2.2.1"
